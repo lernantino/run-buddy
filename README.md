@@ -10,5 +10,8 @@ A website that offers fitness training services.
 ## Installation
 Download and enjoy!
 
+## License
+MIT, free for non commercial use
+
 ## Contribution
 Made with ❤️ by [your name]
