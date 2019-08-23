@@ -14,4 +14,3 @@ Download and enjoy!
 Made with ❤️ by [your name]
 
 #### ©️2019 Run Buddy, Inc 
-  
